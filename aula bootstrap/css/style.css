@@ -1,0 +1,51 @@
+
+@font-face
+{
+    font-family:'Barlow';
+    src: url('fonts/Barlow-Black.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
+}
+body
+{
+    font: 20px, Arial, sans-serif; 
+
+}
+
+/* h3 
+{
+    font-family: 'Barlow';
+    src: url('fonts/Barlow-Black.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
+} */
+
+.navbar 
+{
+    background-color: #D5D8DC;
+}
+
+.quem-somos
+{
+    background-color:#F2F4F4;
+    color:#424949;
+}
+
+.margin
+{
+    padding-bottom: 30px;
+    padding-top: 20px;
+    /* margin-top: 1px; */
+}
+
+.livraria
+{
+    background-color:#EAECEE;
+}
+
+.bg-footer
+{
+    background-color: #E59866;
+}
